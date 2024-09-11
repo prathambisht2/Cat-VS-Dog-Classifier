@@ -19,7 +19,7 @@ This project focuses on classifying images of cats and dogs using a deep learnin
 - **Loss**: 0.7179.
 
 ## How to Run the Project
-1. Clone this repository: https://github.com/prathambisht2/cats-vs-dogs-classification.git
+1. Clone this repository: https://github.com/prathambisht2/Cat-VS-Dog-Classifier.git
 2. Install the required libraries: pip install -r requirements.txt
 3. Run the Jupyter notebook: jupyter notebook cats_vs_dogs_Image_Classification.ipynb
 
