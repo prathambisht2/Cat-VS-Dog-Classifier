@@ -1,7 +1,7 @@
 # Cats vs Dogs Image Classification
 
 ## Project Overview
-This project focuses on classifying images of cats and dogs using a deep learning approach. A Convolutional Neural Network (CNN) is implemented to distinguish between the two animal categories with high accuracy.
+The goal of this project was to build a deep learning model capable of accurately classifying images as either cat or dog. To do this, I utilized the well-known Cats vs Dogs dataset from kaggle, which provides thousands of labeled images for training and testing. The focus was on implementing a CNN using TensorFlow and Keras, two powerful libraries in Python designed for deep learning applications.
 
 ## Technologies Used
 - **Programming Language**: Python
